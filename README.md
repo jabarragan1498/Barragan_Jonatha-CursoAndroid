@@ -1,3 +1,17 @@
 # Barragan_Jonatha-CursoAndroid
+
+Crea un proyecto en Android que:
+1. Soporte los siguientes idiomas
+a. Español (default)
+b. Inglés
+c. Francés
+d. Alemán
+
+2. Utilice como fondo la siguiente imagen. Genera su archivo nine-patch para que sea redimensionable. El marcianito Android no deberá verse afectado en la redimensión.
+
+3. Brinde soporte a múltiples pantallas de modo que la interfaz de usuario debe verse correctamente distribuida sin importar el tamaño y orientación de pantalla donde se este visualizando.
+
+
+Jonathan Alexander Barragán Intriago
 Repositorio de Desarrollo de aplicaciones móviles con Android - Coursera
 Estudiante de la Universidad de las Fuerzas Armadas - ESPE
